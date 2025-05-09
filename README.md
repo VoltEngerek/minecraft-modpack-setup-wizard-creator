@@ -62,7 +62,5 @@ Use at your own risk.
 License:
 This project is licensed under the CC BY-NC-SA 4.0 License. You may modify and share the code, but you cannot use it for commercial purposes. Any modifications made to this project should also be licensed under the same terms and must attribute the original author.
 
-You can find the full text of the license here: CC BY-NC-SA 4.0 License.
-
 Contributing:
 If you'd like to contribute to the project, feel free to fork this repository, make changes, and create a pull request. Any contributions are welcome!
